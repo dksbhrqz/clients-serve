@@ -14,10 +14,6 @@ var ClientSchema = new Schema({
     phone_number: {
       type: String,
       default: ''
-    },
-    email: {
-      type: String,
-      default: ''
     }
 });
 
